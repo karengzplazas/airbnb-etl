@@ -52,7 +52,7 @@ Este proyecto tiene como objetivo aplicar un flujo ETL (Extracción, Transformac
 - Pandas  
 - MongoDB Atlas  
 - MongoDB Compass  
-- Google Colab o Jupyter Notebooks
+- Jupyter Notebooks
 
 ---
 
